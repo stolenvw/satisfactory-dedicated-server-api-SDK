@@ -1,3 +1,2 @@
-python-dotenv~=1.2.2
 requests~=2.32
 aiohttp~=3.9
