@@ -11,7 +11,6 @@ setup(
     version='0.2.1',
     packages=find_packages(exclude=['tests', 'examples']),
     install_requires=[
-        "python-dotenv~=1.2.2",
         "requests~=2.32",
         "aiohttp~=3.9",
     ],
